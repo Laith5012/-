@@ -1,0 +1,26 @@
+div{
+background:#4c708a;
+border-style:solid;
+border-color:#1c1b1c;
+border-width:5px;
+border-radius:30px;
+width:200px;
+  
+margin-top:1%;
+margin-left:37%;
+
+padding:20px;
+
+}
+
+
+hr{ 
+  border-style:solid; 
+  border-color:#608a70;
+  border-width:10px; 
+  border-:10px; 
+  border-radius:30px;
+}
+h1,h2,h3,h4,h5,h6,p,li {
+text-align:center; 
+}
